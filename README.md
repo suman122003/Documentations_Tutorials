@@ -1,5 +1,5 @@
 # Documentations_Tutorials
-The codes available here are basically done from various official documentations. I have tried to explain those codes in a different manner in some places. Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the **Wiki section** - https://github.com/suman122003/Documentations_Tutorials/wiki.
+The codes available here are done from various official documentation. I have tried to explain those codes in a different manner in some places. Visit these folders and explore the codes. Only the folders' names and the files' names inside are given on this page. To see more detailed documentation with one page dedicated to each folder, visit all the pages of the **Wiki section** - https://github.com/suman122003/Documentations_Tutorials/wiki.
 
 
 ## Documentation - NumPy
