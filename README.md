@@ -40,6 +40,7 @@ The codes available here are done from various official documentation. I have tr
 ## Documentation - Plotly
 * **Fundamentals**
   - *plotly.express*
+  - *plotly.graph_objects*
 ## Documentation - QuTiP
 * *Quantum Objects.*
 * *Manipulating states and operators.*
